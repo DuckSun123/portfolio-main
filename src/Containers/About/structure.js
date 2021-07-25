@@ -22,7 +22,7 @@ export const timelines = [
         color: 'blue'
     },
     {
-        title: '퍼스트캠퍼스 프론트엔트 수료',
+        title: '퍼스트캠퍼스 프론트엔트 온라인 강의',
         color: 'blue'
     },
     {
