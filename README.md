@@ -1,4 +1,4 @@
-Demo :  https://DuckSun123.github.io/portfolio-main
+Demo : https://ducksun123.github.io/portfolio-main/
 
 Getting Started with Create React App
 
