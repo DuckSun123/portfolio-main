@@ -16,6 +16,16 @@ export const projectList = [
       "vue와 bootstrap 그리고 open API를 사용하여 영화 검색 사이트를 만들었습니다.",
     key: 3,
   },
+  {
+    title: "TETRIS-GAME",
+    content: "",
+    key: 4,
+  },
+  {
+    title: "Prototype-Shop",
+    content: "",
+    key: 5,
+  },
 ];
 
 export const projectDetailList = [
@@ -42,5 +52,17 @@ export const projectDetailList = [
     api key를 사용하면 보안적인 측면에서 주의해야 할 점과 실제 검색을 통하여 데이터를 불러올 수 있는 구조도 흥미로웠습니다.`,
     demo: ["https://elegant-hermann-1e4448.netlify.app"],
     key: 3,
+  },
+  {
+    title: "TERIS-GAME",
+    content: ``,
+    demo: ["https://ducksun123.github.io/tetris-game/"],
+    key: 4,
+  },
+  {
+    title: "Prototype-Shop",
+    content: ``,
+    demo: ["https://ducksun123.github.io/prototype-shop/"],
+    key: 5,
   },
 ];
